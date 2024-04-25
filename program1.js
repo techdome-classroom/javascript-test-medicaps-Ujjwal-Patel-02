@@ -1,5 +1,4 @@
 function longestSubstring(s) {
-    // Implementation of longestSubstring function
     let start = 0;
     let end = 0;
     let maxLength = 0;
